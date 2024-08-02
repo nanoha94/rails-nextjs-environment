@@ -1,6 +1,6 @@
 # 環境構築（MySQL+Rails7+Next.js）
 詳細は、以下の記事に記載しました。  
-![https://nanoha-code.com/docker-rails7-nextjs-develop-environment/](https://nanoha-code.com/docker-rails7-nextjs-develop-environment/)
+<a href="[ここにリンク先のURLを入れる](https://nanoha-code.com/docker-rails7-nextjs-develop-environment/)" target="_blank" rel="noopener noreferrer">https://nanoha-code.com/docker-rails7-nextjs-develop-environment/</a>
   
 clone後は、以下のコマンドで環境構築できる。  
    
